@@ -8,6 +8,13 @@
       "when": 1752079992768,
       "tag": "0000_chunky_sally_floyd",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752102463547,
+      "tag": "0001_minor_queen_noir",
+      "breakpoints": true
     }
   ]
 }
